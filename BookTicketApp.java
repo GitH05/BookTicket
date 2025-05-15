@@ -11,7 +11,6 @@ class User {
         this.password = password;
     }
 }
-
 class Train {
     int id;
     String source;
