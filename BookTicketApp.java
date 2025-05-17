@@ -226,7 +226,7 @@ public class BookTicketApp {
     static void bookTicket(Scanner sc, String email) {
         System.out.print("Train ID: ");
         int trainId = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine(); 
         System.out.print("Passenger Name: ");
         String name = sc.nextLine();
 
