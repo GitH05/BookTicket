@@ -1,5 +1,4 @@
 import java.util.*;
-
 class User {
     String name;
     String email;
